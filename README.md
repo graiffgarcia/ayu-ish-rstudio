@@ -1,5 +1,5 @@
 # Ayu-ish themes for RStudio
-> Two themes for RStudio, inspired by [the ayu-dark theme](https://github.com/ayu-theme/vscode-ayu) and the [Mayukai mirage darker theme](https://github.com/GulajavaMinistudio/Mayukai-Theme) for VSCode.
+Two themes for RStudio, inspired by [the ayu-dark theme](https://github.com/ayu-theme/vscode-ayu) and the [Mayukai mirage darker theme](https://github.com/GulajavaMinistudio/Mayukai-Theme) for VSCode.
 
 ### Install
 ```R
