@@ -3,11 +3,11 @@ Two themes for RStudio, inspired by [the ayu-dark theme](https://github.com/ayu-
 
 ### Install
 ```R
-# mirage
+# Ayu Dark-ish
 rstudioapi::addTheme("https://raw.githubusercontent.com/graiffgarcia/ayu-ish-rstudio/master/rstheme/ayu-dark.rstheme", 
     apply = TRUE, force = TRUE)
 
-# light
+# Mayukai Mirage Darker-ish
 rstudioapi::addTheme("https://raw.githubusercontent.com/graiffgarcia/ayu-ish-rstudio/master/rstheme/mayukai-mirage-darker.rstheme", 
     apply = TRUE, force = TRUE)
 ```
