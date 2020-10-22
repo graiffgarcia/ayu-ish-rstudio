@@ -66,10 +66,19 @@
 
 }
 
-.ace_keyword.ace_operator {
-  color: #B3B1AD;
-
+.ace_paren.ace_keyword.ace_operator {
+  color: #CBCCC6;
 }
+
+.ace_punctuation.ace_keyword.ace_operator {
+  color: #CBCCC6;
+}
+
+.ace_keyword.ace_operator {
+  color: #F07178;
+}
+
+
 
 .ace_constant.ace_language {
   color: #F29668;
@@ -161,8 +170,6 @@
 
 }
 
-
-
 .ace_variable.ace_language {
   font-style: italic;
   color: #39BAE6;
@@ -197,11 +204,13 @@
 .nocolor.ace_editor .ace_line span {
   color: #bfbab0 !important;
 }
+
 .ace_bracket {
   margin: 0 !important;
   border: 0 !important;
   background-color: rgba(128, 128, 128, 0.5);
 }
+
 .ace_marker-layer .ace_foreign_line {
   position: absolute;
   z-index: -1;
