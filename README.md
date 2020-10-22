@@ -4,10 +4,15 @@ Two themes for RStudio, inspired by [the ayu-dark theme](https://github.com/ayu-
 ### Install
 ```R
 # mirage
-rstudioapi::addTheme("https://raw.githubusercontent.com/graiffgarcia/ayu-ish-rstudio/master/rstheme/ayu-dark.rstheme", apply = TRUE, force = TRUE)
+rstudioapi::addTheme(
+    "https://raw.githubusercontent.com/graiffgarcia/ayu-ish-rstudio/master/rstheme/ayu-dark.rstheme", 
+    apply = TRUE, force = TRUE
+    )
 
 # light
-rstudioapi::addTheme("https://raw.githubusercontent.com/graiffgarcia/ayu-ish-rstudio/master/rstheme/mayukai-mirage-darker.rstheme", apply = TRUE, force = TRUE)
+rstudioapi::addTheme(
+    "https://raw.githubusercontent.com/graiffgarcia/ayu-ish-rstudio/master/rstheme/mayukai-mirage-darker.rstheme", 
+    apply = TRUE, force = TRUE)
 ```
 
 ### Screenshots
